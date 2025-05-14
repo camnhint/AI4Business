@@ -1,5 +1,4 @@
-Nhận diện chữ số viết tay
-Phạm vi: Phát triển hệ thống AI để nhận diện chữ số viết tay.
+Mô hình nhận diện chữ số viết tay 
 Thời gian thực hiện: 24/11/2024 – 06/12/2024
 Mô tả:
 - Đã phát triển mô hình học máy sử dụng ngôn ngữ lập trình Python cùng các thư viện như TensorFlow và Keras để nhận diện chính xác các chữ số viết tay.
